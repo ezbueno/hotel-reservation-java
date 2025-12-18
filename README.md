@@ -4,18 +4,18 @@ A modern hotel reservation management system built with Java 25 LTS, featuring a
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies](#technologies)
-- [Key Components](#key-components)
-- [Notes](#notes)
-- [Author](#author)
-- [Contributing](#contributing)
+- [Overview](#user-content-overview)
+- [Features](#user-content-features)
+- [Architecture](#user-content-architecture)
+- [Requirements](#user-content-requirements)
+- [Installation](#user-content-installation)
+- [Usage](#user-content-usage)
+- [Project Structure](#user-content-project-structure)
+- [Technologies](#user-content-technologies)
+- [Key Components](#user-content-key-components)
+- [Notes](#user-content-notes)
+- [Author](#user-content-author)
+- [Contributing](#user-content-contributing)
 
 ## 🎯 Overview
 
