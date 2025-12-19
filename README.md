@@ -2,21 +2,6 @@
 
 A modern hotel reservation management system built with Java 25 LTS, featuring a clean architecture and console-based interface.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies](#technologies)
-- [Key Components](#key-components)
-- [Notes](#notes)
-- [Author](#author)
-- [Contributing](#contributing)
-
 ## 🎯 Overview
 
 The Hotel Reservation System is a comprehensive console application designed to manage hotel operations efficiently. It provides a complete solution for handling rooms, guests, and bookings with a focus on data integrity and user-friendly interactions.
